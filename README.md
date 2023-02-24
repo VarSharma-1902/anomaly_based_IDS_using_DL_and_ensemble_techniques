@@ -1,7 +1,7 @@
 # anomaly_based_IDS_using_DL_and_ensemble_techniques
 
-In this project, we aim to develop anomaly-based intrusion detection using thep learning and 
-ensemble models. <br>
+In this project, an anomaly-based intrusion detection using the deep learning and 
+ensemble models is developed. <br>
 By monitoring system activity and categorizing it as either normal or unusual, an 
 anomaly-based intrusion detection system can detect network and computer intrusions as well 
 as misuse. The classification seeks to identify any form of misuse that deviates from standard 
